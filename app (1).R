@@ -1,3 +1,5 @@
+# This is a shiny app that allows for visualizations of the built in diamonds data set in R.
+
 library(tidyverse)
 library(shiny)
 library(datasets)
